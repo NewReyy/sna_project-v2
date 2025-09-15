@@ -1,0 +1,9 @@
+pandas>=2.0
+SQLAlchemy>=2.0
+psycopg2-binary
+networkx
+python-louvain
+python-dotenv
+scipy
+matplotlib
+pyvis
